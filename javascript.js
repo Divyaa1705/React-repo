@@ -7,7 +7,7 @@ nick.prepend(btn);
 btn.onclick = () => {
     nick.style.backgroundColor ="black";
 }
- 
+ console.log("Lord Rama was there");
 
 
 
