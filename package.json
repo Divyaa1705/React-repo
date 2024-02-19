@@ -1,0 +1,30 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This is React-repo by Divya Tripathi",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyaa1705/React-repo.git"
+  },
+  "keywords": [],
+  "author": "Divya Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyaa1705/React-repo/issues"
+  },
+  "homepage": "https://github.com/Divyaa1705/React-repo#readme",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
